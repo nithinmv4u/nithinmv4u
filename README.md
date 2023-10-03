@@ -7,7 +7,7 @@
 - [**Ottobi :**](https://github.com/nithinmv4u/Ottobi) An HTML Website using Bootstrap displaying electic scooters on sale
 - [**Razer Clone :**](https://github.com/nithinmv4u/Razer) Clone of Razer HTML Website using Bootstrap
 - [**Learning_Django :**](https://github.com/nithinmv4u/Learning_Django) Compact projects with understanding Django concepts
-- [**React_ing :**](https://github.com/nithinmv4u/React_ing) Simple React projects with understanging concepts
+- [**React_ing :**](https://github.com/nithinmv4u/React_ing) Simple React projects with understanging concepts (React, Redux, Firebase)
 - [**Clash-of-Python :**](https://github.com/nithinmv4u/Clash-of-Python) Python Programming Coding practice with Data structure Algorithms and have leetcode & hackerrank solutions
 - [**Javascript_trolling :**](https://github.com/nithinmv4u/Javascript_trolling) Javascript Programming Coding practice with Data structure Algorithms and have leetcode & hackerrank solutions
 - [**Let-s_C :**](https://github.com/nithinmv4u/Let-s_C) C Programming Coding practice with Data structure Algorithms and have leetcode & hackerrank solutions
