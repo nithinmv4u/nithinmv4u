@@ -4,6 +4,8 @@
 
 - [**FoodieHarbour :**](https://github.com/nithinmv4u/FoodieHarbour) An Ecommerce Website where you can order food.
 - [**WoWShoP :**](https://github.com/nithinmv4u/wowshop) An Ecommerce Website for selling shoes
+- [**CMS :**](https://github.com/nithinmv4u/wowshop) A customer management system where users can perform CRUD operations on customer data.
+- [**ToDo :**](https://github.com/nithinmv4u/wowshop) Platform where users can keep their to-do list and manage it.
 - [**Notes :**](https://github.com/nithinmv4u/Notes) A web app where users can same and manage their notes.
 - [**Swiggy Clone :**](https://github.com/nithinmv4u/Swiggy_clone) Build using React, Redux & Tailwind CSS with public API available from swiggy.com
 - [**Ottobi :**](https://github.com/nithinmv4u/Ottobi) An HTML Website using Bootstrap displaying electic scooters on sale
