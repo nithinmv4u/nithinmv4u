@@ -6,6 +6,7 @@
 - [**WoWShoP :**](https://github.com/nithinmv4u/wowshop) An Ecommerce Website for selling shoes
 - [**CMS :**](https://github.com/nithinmv4u/CMS) A customer management system where users can perform CRUD operations on customer data.
 - [**ToDo :**](https://github.com/nithinmv4u/To-Do) Platform where users can keep their to-do list and manage it.
+- [**QR Code Payment :**](https://github.com/nithinmv4u/QR_code_payment) QR code payment application built using Django for the backend and Vue.js for the frontend.
 - [**Notes :**](https://github.com/nithinmv4u/Notes) A web app where users can same and manage their notes.
 - [**Swiggy Clone :**](https://github.com/nithinmv4u/Swiggy_clone) Build using React, Redux & Tailwind CSS with public API available from swiggy.com
 - [**Ottobi :**](https://github.com/nithinmv4u/Ottobi) An HTML Website using Bootstrap displaying electic scooters on sale
